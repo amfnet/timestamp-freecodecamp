@@ -1,4 +1,4 @@
 export interface DateResponse {
-	unix: String;
+	unix: Number;
 	utc: String;
 }
